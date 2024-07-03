@@ -433,7 +433,7 @@ The example will exchange data using the DHIS 2 play environment, and refer to t
   * Name _Measles doses_ and code `MEASLES_DOSE`
   * Name _Yellow fever doses_ with code `YELLOW_FEVER_DOSE`
 
-* In the **target** instance, create a new data set with any name, e.g. _Data exchange_, select the tree newly created data elements, and assign the data set to the root org unit _Sierra Leone_.
+* In the **target** instance, create a new data set with any name, e.g. _Data exchange_, select the three newly created data elements, and assign the data set to the root org unit _Sierra Leone_.
 
 * Observe that the root org unit `Sierra Leone` has the code `OU_525`, which is equal to the source instance.
 
